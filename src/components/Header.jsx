@@ -39,7 +39,7 @@ const Header = () => {
         <>
         <Container>
             <GridT>
-                <TypoText>Ultimas oportunidad | productos con hasta 60% OFF</TypoText>
+                <TypoText>Ultima oportunidad! | Productos con hasta 60% OFF</TypoText>
             </GridT>
         </Container>
         </>
